@@ -8,7 +8,7 @@
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/enf-rodrigo-aguiar/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enf-rodrigo-aguiar" height="30" width="40" /></a>
-<a target="_blank" href="https://instagram.com/@rodd.aguiar"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodd.aguiar" height="30" width="40" /></a>
+<a target="_blank" href="https://instagram.com/rodd.aguiar"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodd.aguiar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>

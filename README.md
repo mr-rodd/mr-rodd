@@ -1,4 +1,4 @@
-<h1 align="center">Olá Mundo 👋, eu me chamo Rodrigo Aguiar</h1>
+<h1 align="center">Olá, Mundo! 👋 Eu me chamo Rodrigo Aguiar</h1>
 <h3 align="center">Um Desenvolvedor de Software Padawan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-rodd&label=Profile%20views&color=0e75b6&style=flat" alt="mr-rodd" /> </p>

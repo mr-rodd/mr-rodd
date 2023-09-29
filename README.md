@@ -1,5 +1,5 @@
 <h1 align="center">Hello, World!👋<br>My name's Rodrigo Aguiar</h1>
-<h3 align="center">💻 I'm a Software Developer</h3>
+<h3 align="center">💻 Software Developer | JavaScript | Node.js | Python | SQL | Git r</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-rodd&label=Profile%20views&color=0e75b6&style=flat" alt="mr-rodd" /> </p>
 

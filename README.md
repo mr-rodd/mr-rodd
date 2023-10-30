@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-rodd&label=Profile%20views&color=0e75b6&style=flat" alt="mr-rodd" /> </p>
 
-🎓 I study [Back-End Software Development](https://cubos.academy/cursos/desenvolvimento-de-software-v2) @ [Cubos Academy.](https://cubos.academy/) 
+🎓 I have a degree in Nursing and Public Health. At the moment, I'm studying [Back-End Software Development](https://cubos.academy/cursos/desenvolvimento-de-software-v2) @ [Cubos Academy.](https://cubos.academy/) 
 
 🧩 I am currently learning **JavaScript and Git.**
 

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-rodd&label=Profile%20views&color=0e75b6&style=flat" alt="mr-rodd" /> </p>
 
-🎓 I have a degree in Nursing and Public Health. Currently, I work as a freelance Web Developer and study Computer Science at [Descomplica Faculdade Digital.](https://descomplica.com.br/faculdade/tecnologia/ciencia-da-computacao/) 
+🎓 I have a degree in Nursing and Public Health. Currently, I study Computer Science at [Descomplica Faculdade Digital.](https://descomplica.com.br/faculdade/tecnologia/ciencia-da-computacao/) 
 
 🧩 At the momment, I'm learning **JavaScript and Git.**
 

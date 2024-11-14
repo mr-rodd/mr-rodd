@@ -9,7 +9,7 @@
 
 <h3 align="left">About me</h3>
 
-☺ I like to spend my free time with my son;
+☺ I like to spend my free time with my sons;
 
 🔎 Hobby: Illustration and Concept Art;
 
@@ -18,7 +18,6 @@
 <h3 align="left">Social</h3>
 <p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/enf-rodrigo-aguiar/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enf-rodrigo-aguiar" height="30" width="40" /></a>
-<a target="_blank" href="https://instagram.com/rodd.aguiar"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodd.aguiar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Technologies and Tools 🔧</h3>

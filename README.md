@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-rodd&label=Profile%20views&color=0e75b6&style=flat" alt="mr-rodd" /> </p>
 
-🎓 I have a degree in Nursing and Public Health. Currently, I study Computer Science at [Descomplica Faculdade Digital.](https://descomplica.com.br/faculdade/tecnologia/ciencia-da-computacao/) 
+🎓 I'm currently persuing a bachelor's degree in Computer Science at [Descomplica Faculdade Digital.](https://descomplica.com.br/faculdade/tecnologia/ciencia-da-computacao/) I also hold a degree in Nursing and Public Health. 
 
 🧩 At the momment, I'm learning **JavaScript and Git.**
 
 <h3 align="left">About me</h3>
 
-☺ I like to spend my free time with my sons;
-
 🔎 Hobby: Illustration and Concept Art;
 
-📚 Reading: Arsène Lupin - Gentleman Burglar.
+📚 Reading: Guia mangá de Banco de Dados.
 
 <h3 align="left">Social</h3>
 <p align="left">

@@ -5,7 +5,7 @@
 
 🎓 I'm currently persuing a bachelor's degree in Computer Science at [Descomplica Faculdade Digital.](https://descomplica.com.br/faculdade/tecnologia/ciencia-da-computacao/) I also hold a degree in Nursing and Public Health. 
 
-🧩 At the momment, I'm learning **JavaScript and Git.**
+🧩 I'm currently learning **JavaScript and Git.**
 
 <h3 align="left">About me</h3>
 

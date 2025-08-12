@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-rodd&label=Profile%20views&color=0e75b6&style=flat" alt="mr-rodd" /> </p>
 
-🎓 Currently pursuing a bachelor's degree in Computer Science at [Descomplica Faculdade Digital.](https://descomplica.com.br/faculdade/tecnologia/ciencia-da-computacao/) and bulding skills in **JavaScript and Git.** I also hold a degree in Nursing and Public Health.
+🎓 Currently pursuing a bachelor's degree in Computer Science at [Descomplica Faculdade Digital.](https://descomplica.com.br/faculdade/tecnologia/ciencia-da-computacao/) and building skills in **JavaScript and Git.** I also hold a degree in Nursing and Public Health.
 
 <h3 align="left">About me</h3>
 
-🔎 Hobby: Illustration and Concept Art;
+🔎 Hobby: Illustration and Concept Art.
 
-📚 Reading: Guia mangá de Banco de Dados.
+📚 Reading: Guia mangá de Banco de Dados, exploring database fundamentals in a visual way.
 
 <h3 align="left">Social</h3>
 <p align="left">
